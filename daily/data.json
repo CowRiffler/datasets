@@ -1,7 +1,7 @@
 {
   "pack_name": "daily",
   "enabled_by_default": false,
-  "button_text": ["daily", ""],
+  "button_text": ["daily 10", "(riddles)"],
   "entries": {
     "yeast": "What must be in the oven yet can not be baked? Grows in the heat yet shuns the light of day? What sinks in water but rises with air? Looks like skin but is fine as hair?",
     "work": "What does no man want, yet no man want to lose?",
