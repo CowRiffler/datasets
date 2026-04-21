@@ -1,5 +1,5 @@
 {
-  "name": "daily",
+  "pack_name": "daily",
   "enabled_by_default": false,
   "button_text": ["daily", ""],
   "entries": {

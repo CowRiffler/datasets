@@ -1,6 +1,6 @@
 {
-  "name": "demopack",
-  "enabled_by_default": false,
+  "pack_name": "demopack",
+  "enabled_by_default": true,
   "button_text": ["demo", "pack"],
   "entries": {
     "towel": "what gets wet the more it dries?",
