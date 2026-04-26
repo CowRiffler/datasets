@@ -2,7 +2,7 @@
   "pack_name": "trivia",
   "exclusive": true,
   "enabled_by_default": false,
-  "button_text": ["daily 10", "(trivia)"],
+  "button_text": ["trivia", "(x10)"],
   "entries": {
       "cell": "what is the basic unit of life?",
       "atom": "what is the smallest unit of matter?",
