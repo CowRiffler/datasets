@@ -1,5 +1,6 @@
 {
-  "pack_name": "daily",
+  "pack_name": "riddles",
+  "exclusive": true,
   "enabled_by_default": false,
   "button_text": ["daily 10", "(riddles)"],
   "entries": {

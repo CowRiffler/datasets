@@ -1,5 +1,6 @@
 {
   "pack_name": "demopack",
+    "exclusive": false,
   "enabled_by_default": true,
   "button_text": ["demo", "pack"],
   "entries": {
