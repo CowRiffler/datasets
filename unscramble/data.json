@@ -2,7 +2,7 @@
   "pack_name": "unscramble",
   "exclusive": true,
   "enabled_by_default": false,
-  "button_text": ["daily 10", "(unscramble)"],
+  "button_text": ["unscramble", "(x10)"],
   "entries": {
       "apple": "unscramble: elppa",
       "school": "unscramble: loohcs",
