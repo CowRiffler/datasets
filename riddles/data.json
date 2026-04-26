@@ -2,7 +2,7 @@
   "pack_name": "riddles",
   "exclusive": true,
   "enabled_by_default": false,
-  "button_text": ["daily 10", "(riddles)"],
+  "button_text": ["riddles", "(x10)"],
   "entries": {
     "age": "What goes up but never comes down?",
     "air": "I cost no money to use, or conscious effort to take part of. And as far as you can see, there is nothing to me. But without me, you are dead.",
