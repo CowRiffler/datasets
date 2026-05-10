@@ -1,0 +1,19 @@
+{
+  "pack_name": "practice",
+  "exclusive": true,
+  "enabled_by_default": false,
+  "button_text": ["combo", "practice"],
+  "entries": {
+    "cow": "practice word: cow",
+    "stone": "practice word: stone",
+    "lamp": "practice word: lamp",
+    "river": "practice word: river",
+    "chair": "practice word: chair",
+    "mint": "practice word: mint",
+    "piano": "practice word: piano",
+    "cloud": "practice word: cloud",
+    "fork": "practice word: fork",
+    "basket": "practice word: basket",
+    "train": "practice word: train"
+    }
+}
