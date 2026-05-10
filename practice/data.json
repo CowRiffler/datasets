@@ -1,19 +1,13 @@
 {
-  "pack_name": "practice",
+  "pack_name": "tutorial",
   "exclusive": true,
-  "enabled_by_default": false,
-  "button_text": ["combo", "practice"],
+  "enabled_by_default": true,
+  "button_text": ["tutorial", ""],
   "entries": {
-    "cow": "practice word: cow",
-    "stone": "practice word: stone",
-    "lamp": "practice word: lamp",
-    "river": "practice word: river",
-    "chair": "practice word: chair",
-    "mint": "practice word: mint",
-    "piano": "practice word: piano",
-    "cloud": "practice word: cloud",
-    "fork": "practice word: fork",
-    "basket": "practice word: basket",
-    "train": "practice word: train"
+    "cow": "place cards on the board. Use the letters to spell: cow",
+    "box": "nice! Try this one next: box",
+    "dirt": "excellent! Let's up the difficulty: vault \n Try combining a Box card with a Box on the board.",
+    "forge": "awesome! Next word: forge",
+    "inferno": "one final, very useful word: inferno"
     }
 }
