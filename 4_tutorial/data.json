@@ -5,8 +5,8 @@
   "button_text": ["tutorial", ""],
   "entries": {
     "cow": "place cards on the board. Use the letters to spell: cow",
-    "box": "nice! Try this one next: box",
-    "herd": "excellent! Let's up the difficulty: herd \n Try combining a Cow card with a Cow on the board.",
+    "box": "nice! Try this one next: box \n Hint: trash unused cards to draw new ones",
+    "herd": "excellent! Let's up the difficulty: herd \n Hint: try combining a Cow card with a Cow on the board.",
     "forge": "awesome! Next word: forge \n Hint: objects on the board will shake if they can be combined with your held card",
     "inferno": "one final, very useful word: inferno \n (Combine it with almost any other card to destroy it)",
     "ok": "great work! You can keep track of discovered cards and combos in the Dex (via main and pause menus). \n Check out endless and the daily packs for more words to try!"
