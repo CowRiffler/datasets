@@ -2,6 +2,7 @@
   "pack_name": "unscramble",
   "exclusive": true,
   "enabled_by_default": false,
+  "daily_format": true,
   "button_text": ["unscramble", "(x10)"],
   "entries": {
       "apple": "unscramble: elppa",
