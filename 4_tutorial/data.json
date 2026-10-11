@@ -2,6 +2,7 @@
   "pack_name": "tutorial",
   "exclusive": true,
   "enabled_by_default": true,
+  "daily_format": false,
   "button_text": ["tutorial", ""],
   "entries": {
     "cow": "place cards on the board. Use the letters to spell: cow",
