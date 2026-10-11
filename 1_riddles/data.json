@@ -2,6 +2,7 @@
   "pack_name": "riddles",
   "exclusive": true,
   "enabled_by_default": false,
+  "daily_format": true,
   "button_text": ["riddles", "(x10)"],
   "entries": {
     "age": "What goes up but never comes down?",
