@@ -2,6 +2,7 @@
   "pack_name": "endless",
   "exclusive": true,
   "enabled_by_default": false,
+  "daily_format": false,
   "button_text": ["endless", ""],
   "entries": {
 "piano": "what am i: i have keys but no locks and sound when pressed",
