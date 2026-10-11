@@ -2,6 +2,7 @@
   "pack_name": "trivia",
   "exclusive": true,
   "enabled_by_default": false,
+  "daily_format": true,
   "button_text": ["trivia", "(x10)"],
   "entries": {
       "cell": "what is the basic unit of life?",
